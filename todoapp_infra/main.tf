@@ -8,7 +8,6 @@
 
 # लोग हैरान थे. वही छोटा बीज, जिसे सबने हल्का समझा था, आज सबकी ज़िंदगी का सहारा बन गया.
 
-
 module "resource_group" {
   source                  = "../modules/azurerm_resource_group"
   resource_group_name     = "rg-todoapp"
