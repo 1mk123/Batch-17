@@ -1,3 +1,14 @@
+# Ek chhote se gaon me ek kisaan rehta tha. Uske paas ek purana sa khet tha jisme mitti bhi utni acchi nahi thi. Ek din usne bazaar se ek chhota sa बीज खरीदा. Beej dekhne me bilkul aam sa tha, chhota aur halka. Gaon ke log hansne lage –
+# “इतने छोटे बीज से क्या होगा?!”
+
+# Par kisaan ne हिम्मत नहीं हारी. Usne beej ko प्यार से मिट्टी में बोया, रोज पानी दिया, धूप में रखा, और तूफ़ान आने पर भी ढक कर बचा लिया.
+
+# दिन, हफ्ते, और महीने गुज़रे…
+# धीरे-धीरे उस छोटे बीज से एक हरी कोंपल निकली. कुछ ही सालों में वही बीज एक मजबूत पेड़ बन गया, जिसकी छांव तले पूरा गाँव बैठकर आराम करने लगा.
+
+# लोग हैरान थे. वही छोटा बीज, जिसे सबने हल्का समझा था, आज सबकी ज़िंदगी का सहारा बन गया.
+
+
 module "resource_group" {
   source                  = "../modules/azurerm_resource_group"
   resource_group_name     = "rg-todoapp"
